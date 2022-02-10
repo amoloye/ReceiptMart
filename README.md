@@ -7,3 +7,8 @@
 #It also helps to efficiently calculate tax return for users.
 #It also helps to reduce bulkiness of handling reciept paper as reciepts can now be stored online.
 #In future, so many other metrics can also be calculated from how user spends money at user request.
+#Create database
+#Create API and connect to database
+#Add endpoints
+#Test API
+#Create frontend 
